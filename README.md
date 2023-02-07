@@ -9,7 +9,7 @@ Skills: C# / Unity / Java / Linux / C++
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/daehwankim112)  
+[<img src='https://daehwankim112.github.io/assets/images/ludumdare/image1.png' alt='github' height='40'>](https://github.com/daehwankim112)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=daehwankim112)](https://github.com/ryo-ma/github-profile-trophy)
 
