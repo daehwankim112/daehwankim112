@@ -12,7 +12,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/daehwankim112)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daehwankim112)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=daehwankim112)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=daehwankim112)  
 
